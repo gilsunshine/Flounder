@@ -1,0 +1,14 @@
+/Users/gilsunshine/Documents/dev/Flounder/bin/Debug/net7.0-windows/Flounder.deps.json
+/Users/gilsunshine/Documents/dev/Flounder/bin/Debug/net7.0-windows/Flounder.runtimeconfig.json
+/Users/gilsunshine/Documents/dev/Flounder/bin/Debug/net7.0-windows/Flounder.gha
+/Users/gilsunshine/Documents/dev/Flounder/bin/Debug/net7.0-windows/Flounder.pdb
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net7.0-windows/Flounder.csproj.AssemblyReference.cache
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net7.0-windows/Flounder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net7.0-windows/Flounder.AssemblyInfoInputs.cache
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net7.0-windows/Flounder.AssemblyInfo.cs
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net7.0-windows/Flounder.csproj.CoreCompileInputs.cache
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net7.0-windows/Flounder.gha
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net7.0-windows/refint/Flounder.gha
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net7.0-windows/Flounder.pdb
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net7.0-windows/Flounder.genruntimeconfig.cache
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net7.0-windows/ref/Flounder.gha

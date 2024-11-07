@@ -1,0 +1,9 @@
+/Users/gilsunshine/Documents/dev/Flounder/bin/Debug/net48/Flounder.gha
+/Users/gilsunshine/Documents/dev/Flounder/bin/Debug/net48/Flounder.pdb
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net48/Flounder.csproj.AssemblyReference.cache
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net48/Flounder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net48/Flounder.AssemblyInfoInputs.cache
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net48/Flounder.AssemblyInfo.cs
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net48/Flounder.csproj.CoreCompileInputs.cache
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net48/Flounder.gha
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net48/Flounder.pdb

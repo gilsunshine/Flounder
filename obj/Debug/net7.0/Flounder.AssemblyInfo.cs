@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Description of Flounder")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+00594173196d6ee095e3d07cf4d49332eaf9f4ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("Flounder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Flounder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

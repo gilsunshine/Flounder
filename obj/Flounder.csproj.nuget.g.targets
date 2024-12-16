@@ -4,13 +4,16 @@
     <Import Project="$(NuGetPackageRoot)rhinocommon/8.0.23304.9001/build/net48/RhinoCommon.targets" Condition="Exists('$(NuGetPackageRoot)rhinocommon/8.0.23304.9001/build/net48/RhinoCommon.targets')" />
     <Import Project="$(NuGetPackageRoot)microsoft.netframework.referenceassemblies.net48/1.0.3/build/Microsoft.NETFramework.ReferenceAssemblies.net48.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.netframework.referenceassemblies.net48/1.0.3/build/Microsoft.NETFramework.ReferenceAssemblies.net48.targets')" />
     <Import Project="$(NuGetPackageRoot)grasshopper/8.0.23304.9001/build/net48/Grasshopper.targets" Condition="Exists('$(NuGetPackageRoot)grasshopper/8.0.23304.9001/build/net48/Grasshopper.targets')" />
+    <Import Project="$(NuGetPackageRoot)accord/3.8.2-alpha/build/Accord.targets" Condition="Exists('$(NuGetPackageRoot)accord/3.8.2-alpha/build/Accord.targets')" />
   </ImportGroup>
   <ImportGroup Condition=" '$(TargetFramework)' == 'net7.0' AND '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)rhinocommon/8.0.23304.9001/build/net48/RhinoCommon.targets" Condition="Exists('$(NuGetPackageRoot)rhinocommon/8.0.23304.9001/build/net48/RhinoCommon.targets')" />
     <Import Project="$(NuGetPackageRoot)grasshopper/8.0.23304.9001/build/net48/Grasshopper.targets" Condition="Exists('$(NuGetPackageRoot)grasshopper/8.0.23304.9001/build/net48/Grasshopper.targets')" />
+    <Import Project="$(NuGetPackageRoot)accord/3.8.2-alpha/build/Accord.targets" Condition="Exists('$(NuGetPackageRoot)accord/3.8.2-alpha/build/Accord.targets')" />
   </ImportGroup>
   <ImportGroup Condition=" '$(TargetFramework)' == 'net7.0-windows' AND '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)rhinocommon/8.0.23304.9001/build/net48/RhinoCommon.targets" Condition="Exists('$(NuGetPackageRoot)rhinocommon/8.0.23304.9001/build/net48/RhinoCommon.targets')" />
     <Import Project="$(NuGetPackageRoot)grasshopper/8.0.23304.9001/build/net48/Grasshopper.targets" Condition="Exists('$(NuGetPackageRoot)grasshopper/8.0.23304.9001/build/net48/Grasshopper.targets')" />
+    <Import Project="$(NuGetPackageRoot)accord/3.8.2-alpha/build/Accord.targets" Condition="Exists('$(NuGetPackageRoot)accord/3.8.2-alpha/build/Accord.targets')" />
   </ImportGroup>
 </Project>

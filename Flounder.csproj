@@ -23,7 +23,10 @@
   </PropertyGroup>
   
   <ItemGroup>
+    <PackageReference Include="Accord" Version="3.8.2-alpha" />
+    <PackageReference Include="Accord.Math.Noncommercial" Version="3.8.2-alpha" />
     <PackageReference Include="Grasshopper" Version="8.0.23304.9001" ExcludeAssets="runtime" />
+    <PackageReference Include="MathNet.Numerics" Version="5.0.0" />
   </ItemGroup>
   
   <!-- For Windows only builds -->

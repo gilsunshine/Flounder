@@ -1,21 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "tq9xj4QtZ9g=",
+  "dgSpecHash": "rLPFPNNHHBg=",
   "success": true,
   "projectFilePath": "/Users/gilsunshine/Documents/dev/Flounder/Flounder.csproj",
   "expectedPackageFiles": [
+    "/Users/gilsunshine/.nuget/packages/accord/3.8.2-alpha/accord.3.8.2-alpha.nupkg.sha512",
+    "/Users/gilsunshine/.nuget/packages/accord.math/3.8.2-alpha/accord.math.3.8.2-alpha.nupkg.sha512",
+    "/Users/gilsunshine/.nuget/packages/accord.math.noncommercial/3.8.2-alpha/accord.math.noncommercial.3.8.2-alpha.nupkg.sha512",
     "/Users/gilsunshine/.nuget/packages/grasshopper/8.0.23304.9001/grasshopper.8.0.23304.9001.nupkg.sha512",
+    "/Users/gilsunshine/.nuget/packages/mathnet.numerics/5.0.0/mathnet.numerics.5.0.0.nupkg.sha512",
     "/Users/gilsunshine/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
     "/Users/gilsunshine/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512",
     "/Users/gilsunshine/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "/Users/gilsunshine/.nuget/packages/rhinocommon/8.0.23304.9001/rhinocommon.8.0.23304.9001.nupkg.sha512",
     "/Users/gilsunshine/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512",
+    "/Users/gilsunshine/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
     "/Users/gilsunshine/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
     "/Users/gilsunshine/.nuget/packages/microsoft.windowsdesktop.app.ref/7.0.20/microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "/Users/gilsunshine/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
     "/Users/gilsunshine/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
-    "/Users/gilsunshine/.nuget/packages/microsoft.windowsdesktop.app.ref/7.0.20/microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
-    "/Users/gilsunshine/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+    "/Users/gilsunshine/.nuget/packages/microsoft.windowsdesktop.app.ref/7.0.20/microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512"
   ],
   "logs": []
 }

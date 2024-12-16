@@ -12,3 +12,11 @@
 /Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net7.0-windows/Flounder.pdb
 /Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net7.0-windows/Flounder.genruntimeconfig.cache
 /Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net7.0-windows/ref/Flounder.gha
+/Users/gilsunshine/Documents/dev/Flounder/bin/Debug/net7.0-windows/MathNet.Numerics.dll
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net7.0-windows/Flounder.sourcelink.json
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net7.0-windows/Flounder.csproj.Up2Date
+/Users/gilsunshine/Documents/dev/Flounder/bin/Debug/net7.0-windows/Accord.dll.config
+/Users/gilsunshine/Documents/dev/Flounder/bin/Debug/net7.0-windows/Accord.dll
+/Users/gilsunshine/Documents/dev/Flounder/bin/Debug/net7.0-windows/Accord.Math.Core.dll
+/Users/gilsunshine/Documents/dev/Flounder/bin/Debug/net7.0-windows/Accord.Math.dll
+/Users/gilsunshine/Documents/dev/Flounder/bin/Debug/net7.0-windows/Accord.Math.Noncommercial.dll

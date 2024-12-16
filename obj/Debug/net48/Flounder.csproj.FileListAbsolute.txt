@@ -7,3 +7,11 @@
 /Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net48/Flounder.csproj.CoreCompileInputs.cache
 /Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net48/Flounder.gha
 /Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net48/Flounder.pdb
+/Users/gilsunshine/Documents/dev/Flounder/bin/Debug/net48/MathNet.Numerics.dll
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net48/Flounder.sourcelink.json
+/Users/gilsunshine/Documents/dev/Flounder/obj/Debug/net48/Flounder.csproj.Up2Date
+/Users/gilsunshine/Documents/dev/Flounder/bin/Debug/net48/Accord.dll.config
+/Users/gilsunshine/Documents/dev/Flounder/bin/Debug/net48/Accord.dll
+/Users/gilsunshine/Documents/dev/Flounder/bin/Debug/net48/Accord.Math.Core.dll
+/Users/gilsunshine/Documents/dev/Flounder/bin/Debug/net48/Accord.Math.dll
+/Users/gilsunshine/Documents/dev/Flounder/bin/Debug/net48/Accord.Math.Noncommercial.dll

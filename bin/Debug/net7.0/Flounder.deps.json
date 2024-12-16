@@ -8,7 +8,10 @@
     ".NETCoreApp,Version=v7.0": {
       "Flounder/1.0": {
         "dependencies": {
+          "Accord": "3.8.2-alpha",
+          "Accord.Math.Noncommercial": "3.8.2-alpha",
           "Grasshopper": "8.0.23304.9001",
+          "MathNet.Numerics": "5.0.0",
           "Microsoft.NETFramework.ReferenceAssemblies.net48": "1.0.3",
           "System.Drawing.Common": "7.0.0"
         },
@@ -16,9 +19,51 @@
           "Flounder.gha": {}
         }
       },
+      "Accord/3.8.2-alpha": {
+        "runtime": {
+          "lib/netstandard2.0/Accord.dll": {
+            "assemblyVersion": "3.8.2.0",
+            "fileVersion": "3.8.2.6153"
+          }
+        }
+      },
+      "Accord.Math/3.8.2-alpha": {
+        "dependencies": {
+          "Accord": "3.8.2-alpha"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Accord.Math.Core.dll": {
+            "assemblyVersion": "3.8.2.0",
+            "fileVersion": "3.8.2.6153"
+          },
+          "lib/netstandard2.0/Accord.Math.dll": {
+            "assemblyVersion": "3.8.2.0",
+            "fileVersion": "3.8.2.6153"
+          }
+        }
+      },
+      "Accord.Math.Noncommercial/3.8.2-alpha": {
+        "dependencies": {
+          "Accord.Math": "3.8.2-alpha"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Accord.Math.Noncommercial.dll": {
+            "assemblyVersion": "3.8.2.0",
+            "fileVersion": "3.8.2.6153"
+          }
+        }
+      },
       "Grasshopper/8.0.23304.9001": {
         "dependencies": {
           "RhinoCommon": "8.0.23304.9001"
+        }
+      },
+      "MathNet.Numerics/5.0.0": {
+        "runtime": {
+          "lib/net6.0/MathNet.Numerics.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
         }
       },
       "Microsoft.NETFramework.ReferenceAssemblies.net48/1.0.3": {},
@@ -37,12 +82,40 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Accord/3.8.2-alpha": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-g/EKYGdeMKTMJt7XtB65f+RyVW5ALfU1f1T1dpIGXOqzBtaaNK+OGB6pFY9RFrjKPQNUlnKUWF2jwH5knM+X7A==",
+      "path": "accord/3.8.2-alpha",
+      "hashPath": "accord.3.8.2-alpha.nupkg.sha512"
+    },
+    "Accord.Math/3.8.2-alpha": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-derpraljs7QO7U06DzGu1EHNVN+LGM2oA/z3M/zERSWXGs/BVOjMtUBx5WjdMnKXaM0OJiqZFNus3y3C04/H2w==",
+      "path": "accord.math/3.8.2-alpha",
+      "hashPath": "accord.math.3.8.2-alpha.nupkg.sha512"
+    },
+    "Accord.Math.Noncommercial/3.8.2-alpha": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AfNfoyGp+Gck/xHPgcPsR4Dgk5cq0KmCY4mjHgjjKgrzoGsZx2VDJLYCxVlHc4fdK4fHNXmQETOEwb2BYuX/BA==",
+      "path": "accord.math.noncommercial/3.8.2-alpha",
+      "hashPath": "accord.math.noncommercial.3.8.2-alpha.nupkg.sha512"
+    },
     "Grasshopper/8.0.23304.9001": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-L1Cse6nAxryzcZ7jsu3WzBiG9BYtgYsaNbRV+p55N+THKTFGmXx1PdBbiWtuxK9kB4jyuLVpeV8XBiYlSGA1Vw==",
       "path": "grasshopper/8.0.23304.9001",
       "hashPath": "grasshopper.8.0.23304.9001.nupkg.sha512"
+    },
+    "MathNet.Numerics/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pg1W2VwaEQMAiTpGK840hZgzavnqjlCMTVSbtVCXVyT+7AX4mc1o89SPv4TBlAjhgCOo9c1Y+jZ5m3ti2YgGgA==",
+      "path": "mathnet.numerics/5.0.0",
+      "hashPath": "mathnet.numerics.5.0.0.nupkg.sha512"
     },
     "Microsoft.NETFramework.ReferenceAssemblies.net48/1.0.3": {
       "type": "package",
